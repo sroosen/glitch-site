@@ -1,0 +1,13 @@
+body {
+    background-color: #bd0c24ff;
+    color: #fff;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
